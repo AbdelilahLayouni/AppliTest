@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppliTest</string>
+    <string-array name="nouveau">
+        <item>BAC</item>
+        <item>BAC+2</item>
+        <item>BAC+3</item>
+        <item>BAC+5</item>
+    </string-array>
+</resources>
